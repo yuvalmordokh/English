@@ -1,0 +1,117 @@
+<resources>
+    <string name="app_name">English</string>
+
+    <string name="st1">the poem describes twq possible outcomes of day.
+    The speaker recommends the reader to reflect on his/her actions at the end of each day.
+    If you reflect on your actions at the end of the day and find that you have done
+    a kind deed, said somthing nice to comfort somone or smiled kindly at someone,
+    that would suggest that your day has not been lost, because of the joy it brought to another person.
+    If, on the other hand, you did not make anyone happy, did not do anything that was helpful,
+    did not comfort another person, or were not compassionate toward another human being,
+    you can consider your day lost. If you had  the opportunity to become a better person but you missed it,
+    although it cost nothing to be kind and helpful, then your day is "worse than lost".
+    </string>
+    <string name="st2">setting: The story takes place in a rural at the school where Dave studies.
+    The Main Characters: Dave, Dave"s father-referred to as Pa, Dave"s teacher-referred to as proffesor herbert.
+    Marginal Characters: Dave"s mother, the lambert boys, Eib Crabtree-the owner of the tree.
+    The Narrator: The story is told by Dave. This adds to the Authenticity of story. In addition, it the enables the reader to understand Dave's point of view and maybe even feel sympathy towards Dave. The Main Theme: there Throughout the story, the reader realizes that are TWO DIFFERENT CONTRASTED APPROACHES towards EDUCATION. One approach, represented by Pa, is old fashioned. outdated, traditional, non- modernist. According to Pa, kids should study in classrooms. using books, and not go out on field trips. In addition, pa believes that children should be. physically punished. His motto is "If you spare the rod, you spoil the child". Pa is used to whipping his children until they are 21. The contrasted approach, represented by Professor Herbert, is updated and modernist. Professor Herbert follows the course of study provided by the State. This approach is called Progressive Education or Hands-on- Education according to which, the focus should NOT be on learning in classrooms, by using books, but rather on learning through experience. This is the reason why Professor Herbert, who teaches Biology, takes his students on a field trip, in order to find a lizard, a snake, or any other animal, and bring it to the laboratory at school, where the students will dissect it and see germs via the microscope, and by this practical experiential process, learn about germs. Also, with regard to punishing, Professor Herbert has a totally contrasted approach. Being a modern educator, he believes in applying a meaningful non-violent punishment that teaches the child to take responsibility for his actions. This is the reason why, realizing that Dave could not afford paying the 1 dollar fine for breaking the cherry tree-(As he comes from a poor family), he paid Dave's debt, and, in return, made Dave help the janitor, and thus pay his debt.</string>
+    <string name="st3">Dr. Sadao Hoki and his wife, Hana, found a wounded, unconscious man washed up on the shore near
+        their home. They found out that he is an escaped American prisoner of war (P.O.W). This situation leads to a
+        moral dilemma. Sadao and Hana are torn between feelings of patriotism and humanitarianism. On the one hand,
+        being Japanese, they have to turn the man over to the police because the wounded American is their enemy On the
+        other hand, Sadao is a doctor and therefore feels obliged to help cure the wounded soldier. Moreover, there is
+        the issue of the servants. Sadao and his wife afraid the servants might inform on them because they shelter the
+        enemy. This will endanger the whole family, the children, and Sadao"s position as General's doctor Eventually,
+        the couple decided to take the American home, treat him until he recovers, and then, turn him over to the police.
+        When the servants found out that Sadao operated the American and saved his life,
+        they are angry and disrespect their masters. Being frightened and superstitious,
+        the servants refused to help their masters with the prisoner. On the seventh day after the operation,
+        the servants decided to leave the house. After they leave, an official in uniform comes to the house
+        to ask Sadao to come to the palace to treat the General. Hana's reaction to the official's arrival is so
+        dramatic (she is sure that the servants reported on them to the police and that the officer came to arrest
+        them)- that Sadao decided to tell the General about his problem. The General promises to solve the problem
+        by sending assassins to kill the enemy so that Sadao will be safe. Knowing that the General promised to send
+        assassins, Sadao cannot sleep well at night. However, when nothing happened, Sadao realizes the General forgot
+        all about his promise and decides to help the American escape to a little island off the coast, where he can wait
+        for a Korean fishing boat to take him. Sadao provides him with the necessary equipment and also gives him a
+        flashlight to signal every evening. When he sees no flashlight signal he understands that the American is safe.
+        In short, Sadao saved the American's life twice and this proves that for him, humanitarianism is stronger than
+        patriotism. Throughout the story, it is interesting to see how the relationships between both Hana and the
+        prisoner and Sadao and the prisoner change.
+    </string>
+    <string-array name="lis1">
+        <item> question: According to the poem, we may consider a day "well spent" if we have done certain things. In your own words, write two of them.
+        Answer:
+            1.one good word that you say to someone
+        2. one nice look to someone that makes him feel good.</item>
+        <item>  question: In your own words, give two examples of a wasted day, according to the poem.
+        Answer:
+        1. if you did not make someone happy today.
+        2. if you did not cheer anyone.</item>
+        <item>  question: "No act most small" –Explain in your own words what the speaker means by the words "nothing cost".
+        Answer: You did something good for someone and did not get something for this.</item>
+        <item>  question: "One glance most kind"- Why do you think the poet uses the word "sunshine" in this quote?
+        Answer: Because your glance made someone feel warm, good and happy.</item>
+        <item>  question: Why do you think the poet calls the poem "Count That Day Lost"?
+        Answer: It is important that we not waste our days and that we make sure we do good things for other people.
+        thinking skill: cause and effect.</item>
+    </string-array>
+    <string-array name="lis2">
+        <item>  question: What changes Pa’s opinion about his son’s studies?
+        Answer: He talked to Professor Herbert and he spent a day at school. He saw that the school had changed.</item>
+        <item>  question: Why did Dave have to stay after school?
+        Answer: Dave did not have money to pay for the broken cherry tree.</item>
+        <item>  question: Why does Pa take his gun to the school?
+        Answer: To convey his message if the words would not be convincing enough.</item>
+        <item>  question: How does Dave see his father at the end of the story?
+        Answer: Dave understands that his father has a tender heart because he did not let Professor Herbert to kill the black snake; he also understands that Pa is able to learn new things because he saw that Pa changed his opinion about school.
+            He understood that Pa is a good and honest man because he did not agree to cancel the punishment and helped Dave to sweep the floor.</item>
+        <item>  question: How does the meeting between Pa and Professor Herbert affect the boy?
+        Answer: By reading between the lines I understand that due to the meeting between Pa and Professor Herbert Dave understood that his father has a tender heart. When Professor Herbert wanted to dissect the black snake to show germs to the kids, Pa did not let him do it, because he does hurt animals because they cannot defend themselves.
+        Thinking skill: Inferring </item>
+    </string-array>
+    <string-array name="lis3">
+        <item> question: Name two things that sadao does to save the white man"s life after he brings him home.
+            Answer:
+        1. sadao operates tom.
+        2. he helped him escape to an island.</item>
+        <item> question: give two facts we know about sadao"s relationship with his father.
+        Answer:
+        1. sadao respected his father.
+        2. he did not marry Hana before he got his father's approval.</item>
+        <item> question: At his first meting with Sadao the General says, "Then certainly I can allow nothing to happen to you". Why does he say this?
+        Answer: because Sadao is the only surgeon whom the general trusts.</item>
+        <item> question: What is the importance of the satting of the story? Explain.
+        Answer: The story takes place during WWII. Japan and the USA were enemies.
+            Therefore, the setting of the story reinforces the dilemma Hana and Sadao had to deal with:
+            what to do with the white man – to save his life and endanger their own lives or to turn him over to the police or let him die.
+            Eventually, human values won: Sadao and Hana helped the white man and saved his life twice.</item>
+        <item> question: Stupid Yumi," she [Hana] muttered fiercely. "Is this anything but a man?" What is the importance of this quote to the story?
+        Answer: By reading between the lines I infer that when Hana says these words she understands that a human life is above everything, and human values are more important for Hana than national values.
+            Hana is angry because Yumi refused to wash Tom because he was a white man.
+            Hana could not identify with Yumi"s behavior because in Tom Hana saw a wounded man first, and not an enemy.
+        Thinking skill: Inferring</item>
+    </string-array>
+    <string-array name="li1">
+        <item> lots</item>
+        <item> lots</item>
+        <item> hots</item>
+        <item> hots</item>
+        <item> hots</item>
+    </string-array>
+    <string-array name="li2">
+        <item> lots</item>
+        <item> lots</item>
+        <item> lots</item>
+        <item> hots</item>
+        <item> hots</item>
+    </string-array>
+    <string-array name="li3">
+        <item> lots</item>
+        <item> lots</item>
+        <item> lots</item>
+        <item> hots</item>
+        <item> hots</item>
+    </string-array>
+
+</resources>

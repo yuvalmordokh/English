@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:elevation="0dp"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context="com.example.yuvalmordok.english.Main">
+
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="50dp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="53dp"
+        android:orientation="horizontal">
+
+        <Space
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_weight="0.59" />
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="185dp"
+            android:layout_height="50dp"
+            android:gravity="center"
+            android:text="F1 test"
+            android:textColor="@android:color/background_dark"
+            android:textSize="30dp"
+            android:textStyle="bold|italic" />
+
+        <Space
+            android:layout_width="100dp"
+            android:layout_height="50dp" />
+    </LinearLayout>
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="40dp" />
+
+    <Button
+        android:id="@+id/lost"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="lost1"
+        android:text="count that Day lost" />
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="50dp" />
+
+    <Button
+        android:id="@+id/tree"
+        android:layout_width="match_parent"
+        android:onClick="tree1"
+        android:layout_height="wrap_content"
+        android:text="The Split Cherry Tree" />
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="50dp" />
+
+    <Button
+        android:id="@+id/enemy"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="enemy1"
+        android:text="The Enemy" />
+
+</LinearLayout>
